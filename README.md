@@ -1,7 +1,7 @@
 # STAL: Spike Threshold Adaptive Learning
 Learnable Spike-Train Encoder Architecture for the EmoPain dataset.
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 
 
 [![STAL Architecture](https://i.postimg.cc/wBLbV902/LAST-png.png)](https://postimg.cc/QBNbNZLK)
