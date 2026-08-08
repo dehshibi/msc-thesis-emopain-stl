@@ -14,7 +14,7 @@ Paper is published as pre-print to be found at [ArXiv](https://arxiv.org/abs/240
 ---
 > **Supervision Record**  
 > **MSc Thesis:** *Learning Adaptive Spike Thresholds for Low Back Pain Biosignals Classification*  
-> **Student:** [Freek Hens] (@freek1)
+> **Student:** [Freek Hens](@freek1)
 > **Supervisor:** [M.M. Dehshibi](@dehshibi) and Mahyar Shahsavari
 
 
