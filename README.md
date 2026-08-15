@@ -2,7 +2,7 @@
 Learnable Spike-Train Encoder Architecture for the EmoPain dataset.
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
-
+[![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 
 [![STAL Architecture](https://i.postimg.cc/wBLbV902/LAST-png.png)](https://postimg.cc/QBNbNZLK)
 
